@@ -11,4 +11,9 @@ Throughout the project, we trained several models to classify the playing cards,
   - 13 for the card number (A, 2-10, J, Q, K)
   - 4 for the card suit (hearts, diamonds, clubs, spades)
   - 1 for Jokers
-Output: [ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king, hearts, diamonds, clubs, spades, joker]
+Output format: [ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king, hearts, diamonds, clubs, spades, joker]
+
+### Models Trained
+- Standard DNN
+- CNN
+- 
