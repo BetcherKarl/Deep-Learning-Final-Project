@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="119b8599-784b-40c3-9812-5cdac517bff7" name="Changes" comment="Added jupyter notebook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +70,8 @@
       <workItem from="1712869097423" duration="1014000" />
       <workItem from="1713194784984" duration="3664000" />
       <workItem from="1713210502392" duration="7172000" />
+      <workItem from="1713302013892" duration="3318000" />
+      <workItem from="1713380668294" duration="4059000" />
     </task>
     <task id="LOCAL-00001" summary="Added jupyter notebook">
       <option name="closed" value="true" />
