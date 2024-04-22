@@ -40,7 +40,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;53-vector-output&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +72,9 @@
       <workItem from="1713210502392" duration="7172000" />
       <workItem from="1713302013892" duration="3318000" />
       <workItem from="1713380668294" duration="4059000" />
+      <workItem from="1713385189230" duration="7701000" />
+      <workItem from="1713395952999" duration="11774000" />
+      <workItem from="1713812364014" duration="11855000" />
     </task>
     <task id="LOCAL-00001" summary="Added jupyter notebook">
       <option name="closed" value="true" />
@@ -86,6 +89,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added jupyter notebook" />
