@@ -6,14 +6,8 @@ The [dataset](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclass
 
 ## Model
 Throughout the project, we trained several models to classify the playing cards, and they all abide by the following structure:
-- Input: 224x224x3 image or 150528 features (if it is flattened)
-- Output: 18 features
-  - 13 for the card number (A, 2-10, J, Q, K)
-  - 4 for the card suit (hearts, diamonds, clubs, spades)
-  - 1 for Jokers
-Output format: [ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king, hearts, diamonds, clubs, spades, joker]
+- Input: 224x224x3 image
+- Output: 53 values between 0 and 1, representing the model's confidence in each card in a standard deck
 
-### Models Trained
-- Standard DNN
-- CNN
-- 
+
+
